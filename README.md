@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ###All users
 =======
 ###ALina
@@ -24,3 +25,15 @@
 ###Til
 >>>>>>> Til
 >>>>>>> Lists
+=======
+###Schools
+=======
+###AlS
+>>>>>>> AlS
+=======
+###ShS
+>>>>>>> ShS
+=======
+###Tis
+>>>>>>> TiS
+>>>>>>> Schools
